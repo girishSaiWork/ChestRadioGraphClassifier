@@ -1,8 +1,10 @@
-# ChestRadioGraphClassifier
+# Product Classifier
 
-## CheXpert Dataset
+## Brands Dataset
 
-Dataset Link: https://www.kaggle.com/datasets/mimsadiislam/chexpert 
+Dataset Link: https://drive.google.com/file/d/1ihgVJlqRvgvnDKl1_NoGgFCxkkKmazAE/view?usp=share_link
 
 
-Dataset Description: The CheXpert dataset contains 224,316 chest radiographs of 65,240 patients with both frontal and lateral views available. The task is to do automated chest x-ray interpretation, featuring uncertainty labels and radiologist-labeled reference standard evaluation sets.
+Objective : 
+To predict which product image is more likely to be genuinely belonging to the brand provided. And
+then to classify the product image into the brand that it belongs to.
