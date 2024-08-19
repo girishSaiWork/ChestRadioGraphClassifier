@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-project_name = "cnnChestRadioGraphClassification"
+project_name = "cnnProductClassification"
 
 list_of_files = [
     f"src/{project_name}/__init__.py",
